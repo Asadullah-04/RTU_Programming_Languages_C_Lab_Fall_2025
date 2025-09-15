@@ -1,6 +1,6 @@
 
 # Lab 1 — C Basics (Week 1)
-
+#This is Asad
 **Goals**
 - Set up a working C toolchain (GitHub Codespaces *or* local Linux with GCC + VS Code).
 - Write, compile, and run simple C programs.
